@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thirajpro
+- 👋 Hola!, I’m @thirajpro
 - 👀 I'm interested in coding.
 - 🌱 I’m a freelancer.
 - 💞️ I’m looking to collaborate with with people those who are engaged in software engineering industry.
