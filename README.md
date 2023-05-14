@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thirajpro
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java EE
-- 💞️ I’m looking to collaborate with with people those who are interested in software engineering industry
-- 📫 How to reach me through github @thirajpro
+- 👀 I'm interested in coding.
+- 🌱 I’m a freelancer.
+- 💞️ I’m looking to collaborate with with people those who are engaged in software engineering industry.
+- 📫 Feel free to contact me!
 
 <!---
 thirajpro/thirajpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
