@@ -1,5 +1,3 @@
-Thiraj Pramodya
-
 Hello and welcome to my GitHub page!
 
 About Me
