@@ -10,7 +10,7 @@ Here you'll find a collection of Java projects that showcase my expertise in Spr
 
 Get in Touch
 
-I'm always eager to connect with fellow developers, discuss new ideas, and collaborate on exciting projects. Whether you're a seasoned developer or just getting started with Java and Spring, I'd love to hear from you. Feel free to reach out to me via [mention preferred communication channels] to connect and explore opportunities for collaboration.
+I'm always eager to connect with fellow developers, discuss new ideas, and collaborate on exciting projects. Whether you're a seasoned developer or just getting started with Java and Spring, I'd love to hear from you. Feel free to reach out to me via thiraj.dev@gmail.com to connect and explore opportunities for collaboration.
 
 Thank you for visiting my GitHub page, and I hope you find inspiration in the projects I've shared!
 
